@@ -3,7 +3,7 @@
 
 Portfolio project analysing appointment attendance using a public dataset of medical appointments.
 
-![Dashboard](dashboard-overview.png)
+![Dashboard](no-show-dashboard.png)
 
 ## Data
 - Source: [Medical Appointment No Shows (Kaggle)](https://www.kaggle.com/datasets/joniarroba/noshowappointments). Appointments booked in Brazil, 29 April to 8 June 2016. This is not New Zealand data.
